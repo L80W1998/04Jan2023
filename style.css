@@ -1,3 +1,22 @@
+<<<<<<< HEAD
 h1 {
   color: green;
 }
+||||||| merged common ancestors
+=======
+h1{
+  width: 100px;
+  height: 100px;
+}
+
+h3{
+  width :100px;
+  height: 100px;
+}
+
+p{
+  width: 100px;
+  height: 100px;
+}
+
+>>>>>>> 0fd8617ea7f68e95b7f5c0f91023749d4cd92f56
